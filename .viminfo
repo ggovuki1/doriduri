@@ -14,14 +14,14 @@
 ~MSle0~/qw
 
 # 명령 행 히스토리 (새것부터 오래된 것 순):
+:q
+|2,0,1696856597,,"q"
 :wq
 |2,0,1696854961,,"wq"
 :wqwqw
 |2,0,1696852627,,"wqwqw"
 :qw`
 |2,0,1696852624,,"qw`"
-:q
-|2,0,1694958793,,"q"
 
 # 찾을 문자열 히스토리 (새것부터 오래된 것 순):
 ??qw
@@ -67,9 +67,17 @@
 -'  1  12  ~/Linux_study/ww.c
 |4,39,1,12,1696854961,"~/Linux_study/ww.c"
 -'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854938,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
 |4,39,1,12,1696854938,"~/Linux_study/ww.c"
 -'  1  9  ~/Linux_study/ww.c
 |4,39,1,9,1696854821,"~/Linux_study/ww.c"
+-'  1  9  ~/Linux_study/ww.c
+|4,39,1,9,1696854821,"~/Linux_study/ww.c"
+-'  1  8  ~/Linux_study/ww.c
+|4,39,1,8,1696854771,"~/Linux_study/ww.c"
 -'  1  8  ~/Linux_study/ww.c
 |4,39,1,8,1696854771,"~/Linux_study/ww.c"
 -'  5  1  ~/Linux_git/Dweb.c
@@ -104,6 +112,70 @@
 |4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
 -'  5  1  ~/Linux_git/Dweb.c
 |4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  5  1  ~/Linux_git/Dweb.c
+|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
 -'  4  1  ~/Linux_git/Dweb.c
 |4,39,4,1,1696854217,"~/Linux_git/Dweb.c"
 -'  4  1  ~/Linux_git/Dweb.c
@@ -168,102 +240,28 @@
 |4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
 -'  4  1  ~/Linux_git/Dweb.c
 |4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854164,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
--'  2  1  ~/Linux_git/Dweb.c
-|4,39,2,1,1696854024,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
+-'  4  1  ~/Linux_git/Dweb.c
+|4,39,4,1,1696854173,"~/Linux_git/Dweb.c"
 
 # 파일내의 마크 히스토리 (새것부터 오래된 순):
 
