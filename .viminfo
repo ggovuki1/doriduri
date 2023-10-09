@@ -15,9 +15,9 @@
 
 # 명령 행 히스토리 (새것부터 오래된 것 순):
 :wq
-|2,0,1696856976,,"wq"
+|2,0,1696857685,,"wq"
 :q
-|2,0,1696856597,,"q"
+|2,0,1696857433,,"q"
 :wqwqw
 |2,0,1696852627,,"wqwqw"
 :qw`
@@ -42,32 +42,88 @@
 |3,1,36,0,1,0,1696852148,"q"
 
 # 파일 마크:
-'0  2  5  ~/abc/Dweb.c
-|4,48,2,5,1696856976,"~/abc/Dweb.c"
-'1  1  11  ~/abc/Dweb.c
-|4,49,1,11,1696856907,"~/abc/Dweb.c"
-'2  1  11  ~/abc/Dweb.c
-|4,50,1,11,1696856907,"~/abc/Dweb.c"
-'3  1  12  ~/Linux_study/ww.c
-|4,51,1,12,1696854961,"~/Linux_study/ww.c"
-'4  1  12  ~/Linux_study/ww.c
-|4,52,1,12,1696854938,"~/Linux_study/ww.c"
-'5  1  9  ~/Linux_study/ww.c
-|4,53,1,9,1696854821,"~/Linux_study/ww.c"
-'6  1  9  ~/Linux_study/ww.c
-|4,54,1,9,1696854821,"~/Linux_study/ww.c"
-'7  1  8  ~/Linux_study/ww.c
-|4,55,1,8,1696854771,"~/Linux_study/ww.c"
-'8  1  8  ~/Linux_study/ww.c
-|4,56,1,8,1696854771,"~/Linux_study/ww.c"
-'9  1  8  ~/Linux_study/ww.c
-|4,57,1,8,1696854771,"~/Linux_study/ww.c"
+'0  2  3  ~/Dweb.c
+|4,48,2,3,1696857685,"~/Dweb.c"
+'1  1  4  ~/Dweb.c
+|4,49,1,4,1696857464,"~/Dweb.c"
+'2  1  4  ~/Dweb.c
+|4,50,1,4,1696857464,"~/Dweb.c"
+'3  1  0  ~/heelo
+|4,51,1,0,1696857433,"~/heelo"
+'4  2  5  ~/abc/Dweb.c
+|4,52,2,5,1696856976,"~/abc/Dweb.c"
+'5  1  11  ~/abc/Dweb.c
+|4,53,1,11,1696856907,"~/abc/Dweb.c"
+'6  1  11  ~/abc/Dweb.c
+|4,54,1,11,1696856907,"~/abc/Dweb.c"
+'7  1  12  ~/Linux_study/ww.c
+|4,55,1,12,1696854961,"~/Linux_study/ww.c"
+'8  1  12  ~/Linux_study/ww.c
+|4,56,1,12,1696854938,"~/Linux_study/ww.c"
+'9  1  9  ~/Linux_study/ww.c
+|4,57,1,9,1696854821,"~/Linux_study/ww.c"
 
 # 점프목록 (새것이 먼저):
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  1  4  ~/Dweb.c
+|4,39,1,4,1696857679,"~/Dweb.c"
+-'  1  4  ~/Dweb.c
+|4,39,1,4,1696857464,"~/Dweb.c"
+-'  1  0  ~/heelo
+|4,39,1,0,1696857433,"~/heelo"
+-'  1  0  ~/heelo
+|4,39,1,0,1696857433,"~/heelo"
+-'  1  0  ~/heelo
+|4,39,1,0,1696857433,"~/heelo"
+-'  1  0  ~/heelo
+|4,39,1,0,1696857433,"~/heelo"
+-'  2  5  ~/abc/Dweb.c
+|4,39,2,5,1696856976,"~/abc/Dweb.c"
+-'  2  5  ~/abc/Dweb.c
+|4,39,2,5,1696856976,"~/abc/Dweb.c"
+-'  2  5  ~/abc/Dweb.c
+|4,39,2,5,1696856976,"~/abc/Dweb.c"
+-'  2  5  ~/abc/Dweb.c
+|4,39,2,5,1696856976,"~/abc/Dweb.c"
+-'  2  5  ~/abc/Dweb.c
+|4,39,2,5,1696856976,"~/abc/Dweb.c"
+-'  2  5  ~/abc/Dweb.c
+|4,39,2,5,1696856976,"~/abc/Dweb.c"
+-'  2  5  ~/abc/Dweb.c
+|4,39,2,5,1696856976,"~/abc/Dweb.c"
 -'  2  5  ~/abc/Dweb.c
 |4,39,2,5,1696856976,"~/abc/Dweb.c"
 -'  1  11  ~/abc/Dweb.c
 |4,39,1,11,1696856969,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856969,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856969,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856969,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856969,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856969,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856969,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856969,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856907,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856907,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856907,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856907,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856907,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856907,"~/abc/Dweb.c"
+-'  1  11  ~/abc/Dweb.c
+|4,39,1,11,1696856907,"~/abc/Dweb.c"
 -'  1  11  ~/abc/Dweb.c
 |4,39,1,11,1696856907,"~/abc/Dweb.c"
 -'  1  12  ~/Linux_study/ww.c
@@ -87,7 +143,117 @@
 -'  1  12  ~/Linux_study/ww.c
 |4,39,1,12,1696854961,"~/Linux_study/ww.c"
 -'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854938,"~/Linux_study/ww.c"
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
+-'  1  12  ~/Linux_study/ww.c
+|4,39,1,12,1696854961,"~/Linux_study/ww.c"
 -'  1  12  ~/Linux_study/ww.c
 |4,39,1,12,1696854938,"~/Linux_study/ww.c"
 -'  1  12  ~/Linux_study/ww.c
@@ -98,174 +264,20 @@
 |4,39,1,12,1696854938,"~/Linux_study/ww.c"
 -'  1  12  ~/Linux_study/ww.c
 |4,39,1,12,1696854938,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854938,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854938,"~/Linux_study/ww.c"
--'  1  9  ~/Linux_study/ww.c
-|4,39,1,9,1696854821,"~/Linux_study/ww.c"
--'  1  9  ~/Linux_study/ww.c
-|4,39,1,9,1696854821,"~/Linux_study/ww.c"
--'  1  9  ~/Linux_study/ww.c
-|4,39,1,9,1696854821,"~/Linux_study/ww.c"
--'  1  9  ~/Linux_study/ww.c
-|4,39,1,9,1696854821,"~/Linux_study/ww.c"
--'  1  9  ~/Linux_study/ww.c
-|4,39,1,9,1696854821,"~/Linux_study/ww.c"
--'  1  9  ~/Linux_study/ww.c
-|4,39,1,9,1696854821,"~/Linux_study/ww.c"
--'  1  9  ~/Linux_study/ww.c
-|4,39,1,9,1696854821,"~/Linux_study/ww.c"
--'  1  9  ~/Linux_study/ww.c
-|4,39,1,9,1696854821,"~/Linux_study/ww.c"
--'  1  8  ~/Linux_study/ww.c
-|4,39,1,8,1696854771,"~/Linux_study/ww.c"
--'  1  8  ~/Linux_study/ww.c
-|4,39,1,8,1696854771,"~/Linux_study/ww.c"
--'  1  8  ~/Linux_study/ww.c
-|4,39,1,8,1696854771,"~/Linux_study/ww.c"
--'  1  8  ~/Linux_study/ww.c
-|4,39,1,8,1696854771,"~/Linux_study/ww.c"
--'  1  8  ~/Linux_study/ww.c
-|4,39,1,8,1696854771,"~/Linux_study/ww.c"
--'  1  8  ~/Linux_study/ww.c
-|4,39,1,8,1696854771,"~/Linux_study/ww.c"
--'  1  8  ~/Linux_study/ww.c
-|4,39,1,8,1696854771,"~/Linux_study/ww.c"
--'  1  8  ~/Linux_study/ww.c
-|4,39,1,8,1696854771,"~/Linux_study/ww.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
--'  5  1  ~/Linux_git/Dweb.c
-|4,39,5,1,1696854224,"~/Linux_git/Dweb.c"
 
 # 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/Dweb.c
+	*	1696857684	0
+	"	2	3
+	^	2	4
+	.	2	3
+	+	1	4
+	+	2	3
+
+> ~/heelo
+	*	1696857428	0
+	"	1	0
 
 > ~/abc/Dweb.c
 	*	1696856974	0
