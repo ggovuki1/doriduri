@@ -15,9 +15,11 @@
 
 # 명령 행 히스토리 (새것부터 오래된 것 순):
 :wq
-|2,0,1696857685,,"wq"
+|2,0,1697367614,,"wq"
 :q
-|2,0,1696857433,,"q"
+|2,0,1697365449,,"q"
+:wq2
+|2,0,1697364735,,"wq2"
 :wqwqw
 |2,0,1696852627,,"wqwqw"
 :qw`
@@ -38,234 +40,251 @@
 	?qw��aew
 |3,0,18,0,1,0,1696852623,"?qw��aew"
 ""-	CHAR	0
-	q
-|3,1,36,0,1,0,1696852148,"q"
+	=
+|3,1,36,0,1,0,1697364726,"="
 
 # 파일 마크:
-'0  2  3  ~/Dweb.c
-|4,48,2,3,1696857685,"~/Dweb.c"
-'1  1  4  ~/Dweb.c
-|4,49,1,4,1696857464,"~/Dweb.c"
-'2  1  4  ~/Dweb.c
-|4,50,1,4,1696857464,"~/Dweb.c"
-'3  1  0  ~/heelo
-|4,51,1,0,1696857433,"~/heelo"
-'4  2  5  ~/abc/Dweb.c
-|4,52,2,5,1696856976,"~/abc/Dweb.c"
-'5  1  11  ~/abc/Dweb.c
-|4,53,1,11,1696856907,"~/abc/Dweb.c"
-'6  1  11  ~/abc/Dweb.c
-|4,54,1,11,1696856907,"~/abc/Dweb.c"
-'7  1  12  ~/Linux_study/ww.c
-|4,55,1,12,1696854961,"~/Linux_study/ww.c"
-'8  1  12  ~/Linux_study/ww.c
-|4,56,1,12,1696854938,"~/Linux_study/ww.c"
-'9  1  9  ~/Linux_study/ww.c
-|4,57,1,9,1696854821,"~/Linux_study/ww.c"
+'0  2  11  ~/git_tutorial/README.md
+|4,48,2,11,1697367614,"~/git_tutorial/README.md"
+'1  2  11  ~/git_tutorial/README.md
+|4,49,2,11,1697367605,"~/git_tutorial/README.md"
+'2  2  11  ~/git_tutorial/README2.md
+|4,50,2,11,1697365449,"~/git_tutorial/README2.md"
+'3  2  11  ~/git_tutorial/README2.md
+|4,51,2,11,1697364774,"~/git_tutorial/README2.md"
+'4  1  8  ~/git_tutorial/README.md
+|4,52,1,8,1697364736,"~/git_tutorial/README.md"
+'5  1  8  ~/git_tutorial/README.md
+|4,53,1,8,1697364736,"~/git_tutorial/README.md"
+'6  1  8  ~/git_tutorial/README.md
+|4,54,1,8,1697364736,"~/git_tutorial/README.md"
+'7  1  8  ~/git_tutorial/README.md
+|4,55,1,8,1697364736,"~/git_tutorial/README.md"
+'8  1  36  ~/git_tutorial/README.md
+|4,56,1,36,1696986056,"~/git_tutorial/README.md"
+'9  1  36  ~/git_tutorial/README.md
+|4,57,1,36,1696986056,"~/git_tutorial/README.md"
 
 # 점프목록 (새것이 먼저):
+-'  2  11  ~/git_tutorial/README.md
+|4,39,2,11,1697367614,"~/git_tutorial/README.md"
+-'  2  11  ~/git_tutorial/README.md
+|4,39,2,11,1697367605,"~/git_tutorial/README.md"
+-'  1  0  ~/git_tutorial/README.md
+|4,39,1,0,1697367579,"~/git_tutorial/README.md"
+-'  1  0  ~/git_tutorial/README.md
+|4,39,1,0,1697367579,"~/git_tutorial/README.md"
+-'  2  11  ~/git_tutorial/README2.md
+|4,39,2,11,1697365449,"~/git_tutorial/README2.md"
+-'  2  11  ~/git_tutorial/README2.md
+|4,39,2,11,1697365449,"~/git_tutorial/README2.md"
+-'  2  11  ~/git_tutorial/README2.md
+|4,39,2,11,1697365449,"~/git_tutorial/README2.md"
+-'  2  11  ~/git_tutorial/README2.md
+|4,39,2,11,1697365449,"~/git_tutorial/README2.md"
+-'  2  11  ~/git_tutorial/README2.md
+|4,39,2,11,1697364774,"~/git_tutorial/README2.md"
+-'  2  11  ~/git_tutorial/README2.md
+|4,39,2,11,1697364774,"~/git_tutorial/README2.md"
+-'  2  11  ~/git_tutorial/README2.md
+|4,39,2,11,1697364774,"~/git_tutorial/README2.md"
+-'  2  11  ~/git_tutorial/README2.md
+|4,39,2,11,1697364774,"~/git_tutorial/README2.md"
+-'  1  0  ~/git_tutorial/README2.md
+|4,39,1,0,1697364762,"~/git_tutorial/README2.md"
+-'  1  0  ~/git_tutorial/README2.md
+|4,39,1,0,1697364762,"~/git_tutorial/README2.md"
+-'  1  0  ~/git_tutorial/README2.md
+|4,39,1,0,1697364762,"~/git_tutorial/README2.md"
+-'  1  0  ~/git_tutorial/README2.md
+|4,39,1,0,1697364762,"~/git_tutorial/README2.md"
+-'  1  0  ~/git_tutorial/README2.md
+|4,39,1,0,1697364762,"~/git_tutorial/README2.md"
+-'  1  0  ~/git_tutorial/README2.md
+|4,39,1,0,1697364762,"~/git_tutorial/README2.md"
+-'  1  0  ~/git_tutorial/README2.md
+|4,39,1,0,1697364762,"~/git_tutorial/README2.md"
+-'  1  0  ~/git_tutorial/README2.md
+|4,39,1,0,1697364762,"~/git_tutorial/README2.md"
+-'  1  8  ~/git_tutorial/README.md
+|4,39,1,8,1697364736,"~/git_tutorial/README.md"
+-'  1  8  ~/git_tutorial/README.md
+|4,39,1,8,1697364736,"~/git_tutorial/README.md"
+-'  1  8  ~/git_tutorial/README.md
+|4,39,1,8,1697364736,"~/git_tutorial/README.md"
+-'  1  8  ~/git_tutorial/README.md
+|4,39,1,8,1697364736,"~/git_tutorial/README.md"
+-'  2  28  ~/git_tutorial/README.md
+|4,39,2,28,1697364725,"~/git_tutorial/README.md"
+-'  2  28  ~/git_tutorial/README.md
+|4,39,2,28,1697364725,"~/git_tutorial/README.md"
+-'  2  28  ~/git_tutorial/README.md
+|4,39,2,28,1697364725,"~/git_tutorial/README.md"
+-'  2  28  ~/git_tutorial/README.md
+|4,39,2,28,1697364725,"~/git_tutorial/README.md"
+-'  2  28  ~/git_tutorial/README.md
+|4,39,2,28,1696986056,"~/git_tutorial/README.md"
+-'  2  28  ~/git_tutorial/README.md
+|4,39,2,28,1696986056,"~/git_tutorial/README.md"
+-'  2  28  ~/git_tutorial/README.md
+|4,39,2,28,1696986056,"~/git_tutorial/README.md"
+-'  2  28  ~/git_tutorial/README.md
+|4,39,2,28,1696986056,"~/git_tutorial/README.md"
+-'  1  0  ~/git_tutorial/README.md
+|4,39,1,0,1696986047,"~/git_tutorial/README.md"
+-'  1  0  ~/git_tutorial/README.md
+|4,39,1,0,1696986047,"~/git_tutorial/README.md"
+-'  1  0  ~/git_tutorial/README.md
+|4,39,1,0,1696986047,"~/git_tutorial/README.md"
+-'  1  0  ~/git_tutorial/README.md
+|4,39,1,0,1696986047,"~/git_tutorial/README.md"
 -'  2  3  ~/Dweb.c
 |4,39,2,3,1696857685,"~/Dweb.c"
--'  1  4  ~/Dweb.c
-|4,39,1,4,1696857679,"~/Dweb.c"
--'  1  4  ~/Dweb.c
-|4,39,1,4,1696857464,"~/Dweb.c"
--'  1  0  ~/heelo
-|4,39,1,0,1696857433,"~/heelo"
--'  1  0  ~/heelo
-|4,39,1,0,1696857433,"~/heelo"
--'  1  0  ~/heelo
-|4,39,1,0,1696857433,"~/heelo"
--'  1  0  ~/heelo
-|4,39,1,0,1696857433,"~/heelo"
--'  2  5  ~/abc/Dweb.c
-|4,39,2,5,1696856976,"~/abc/Dweb.c"
--'  2  5  ~/abc/Dweb.c
-|4,39,2,5,1696856976,"~/abc/Dweb.c"
--'  2  5  ~/abc/Dweb.c
-|4,39,2,5,1696856976,"~/abc/Dweb.c"
--'  2  5  ~/abc/Dweb.c
-|4,39,2,5,1696856976,"~/abc/Dweb.c"
--'  2  5  ~/abc/Dweb.c
-|4,39,2,5,1696856976,"~/abc/Dweb.c"
--'  2  5  ~/abc/Dweb.c
-|4,39,2,5,1696856976,"~/abc/Dweb.c"
--'  2  5  ~/abc/Dweb.c
-|4,39,2,5,1696856976,"~/abc/Dweb.c"
--'  2  5  ~/abc/Dweb.c
-|4,39,2,5,1696856976,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856969,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856969,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856969,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856969,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856969,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856969,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856969,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856969,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856907,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856907,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856907,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856907,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856907,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856907,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856907,"~/abc/Dweb.c"
--'  1  11  ~/abc/Dweb.c
-|4,39,1,11,1696856907,"~/abc/Dweb.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854961,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854938,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854938,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854938,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854938,"~/Linux_study/ww.c"
--'  1  12  ~/Linux_study/ww.c
-|4,39,1,12,1696854938,"~/Linux_study/ww.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
+-'  2  3  ~/Dweb.c
+|4,39,2,3,1696857685,"~/Dweb.c"
 
 # 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/git_tutorial/README.md
+	*	1697367613	0
+	"	2	11
+	^	2	12
+	.	2	12
+	+	2	0
+	+	1	35
+	+	1	8
+	+	2	12
+
+> ~/git_tutorial/README2.md
+	*	1697365448	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	2	11
 
 > ~/Dweb.c
 	*	1696857684	0

@@ -218,3 +218,195 @@ ls
 mkdir Linux_study
 cd Linux_study
 git status
+cd
+ls
+cd /home
+ls
+cd user
+ls
+cd my_projet
+cd my_project
+ls
+cd ..
+cd
+git log
+cd
+ls
+git status
+cd Linux_study
+ls
+cd ..
+rm Linux
+ls
+rm -rf Linux_study
+ls
+cd aa
+mkdir aaa
+ls aaa
+git status
+git add .
+git status
+git commit "sd"
+git commit -m "sd"
+git log
+git status
+vi
+ls
+cd aaa
+ls
+git status
+git add .
+ls
+git status
+git add .
+git status
+cd ..
+git status
+git add .
+git status
+git commit -m "aa"
+git log
+git stats
+git status
+ls
+cd aaa
+git status
+echo 'My Project' > README
+git status
+cd ..
+ls
+rm rf- aaa
+rm rf - aaa
+ls
+rm -rf aaa
+ls
+mkdir abc
+git status
+cd abc
+git add README
+git status
+echo 'My Project' >
+echo 'My Project' > README
+git status
+git add README
+git status
+vim Dweb.c
+git status
+git add Dewb.c
+git add Dweb.c
+git status
+vim Dweb.c
+git status
+git add .
+git status
+git add ../.viminfo
+git status
+cd ..
+rm -rf abc
+git status
+git add .
+git
+git status
+git commit -m  "s"
+git status
+mkdir Ls
+git status
+echo 'My Project' > README
+git status
+ls
+cd Ls
+echo 'My Project' e
+echo 'My Project' > README
+ls
+cd ..
+ls
+rm -rf README
+rm -rf Ls
+git status
+mkdir Ls
+cd Ls
+git status
+echo 'My Project' > README
+git status
+cd ..
+status
+git status
+ls
+git add .
+ls
+git status
+rm -rf Ls
+git status
+git restore Ls
+ls
+git status
+rm -rf Ls
+git status
+ls
+git commit -m "d"
+git status
+git .
+git add .
+git status
+git commit -m "aa"
+ls
+git status
+echo 'My Project' > README
+git status
+git add README
+git status
+vim heelo
+ls
+git status
+vim Dweb.c
+git status
+git add Dweb.c
+git status
+vim Dweb.c
+git status
+git add .
+git status
+git commit -m "report"
+git log
+mkdir git_tutorial
+cd git_tutorial
+git init
+touch README.md
+vim README.md
+inconfig
+ifconfig
+apt update
+apt install openssh-server
+apt-get install openssh-client
+ssh ubuntu@192.168.44.129
+ssh ubuntu@129.168.44.129
+ifconfig
+apt update
+apt install openssh-server
+apt-get install openssh-client
+ssh ubuntu@192.168.44.129
+exit
+ls
+cd git_tutorial
+ls
+git init
+ls
+touch README.md
+ls
+vi README.md
+ls
+touch README2.md
+vi README2.md
+git status
+git remote add origin https://github.com/gkdlqmeownwn/Linux_prac.git
+git log
+git push origin master
+git ls
+git status
+git add .
+git status
+git commit -m .
+git status
+git log
+git remote add origin https://github.com/gkdlqmeownwn/Linux_prac.git
+git push origin master
